@@ -1,0 +1,29 @@
+﻿# native English translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: native\n"
+"POT-Creation-Date: 2018-03-27 14:51\n"
+"PO-Revision-Date: 2018-03-27 14:51\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	566EBE8E4BBCA2E2921BA3B751E914AF
+#. SourceLocation:	/Game/Blueprints/BP_Item.Default__BP_Item_C.Name
+#: /Game/Blueprints/BP_Item.Default__BP_Item_C.Name
+msgctxt ",566EBE8E4BBCA2E2921BA3B751E914AF"
+msgid "Item"
+msgstr "Item"
+
+#. Key:	8C8D7EBC4FBB348F04D433A6BA5597A7
+#. SourceLocation:	/Game/Blueprints/BP_Enemy.BP_Enemy_C:ExecuteUbergraph_BP_Enemy [Script Bytecode]
+#: /Game/Blueprints/BP_Enemy.BP_Enemy_C:ExecuteUbergraph_BP_Enemy [Script Bytecode]
+msgctxt ",8C8D7EBC4FBB348F04D433A6BA5597A7"
+msgid "ERROR"
+msgstr "ERROR"
+
